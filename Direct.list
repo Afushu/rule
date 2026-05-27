@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,ipv6.msftconnecttest.com
 DOMAIN-SUFFIX,afushu.top
 DOMAIN-SUFFIX,yusen.cyou
 DOMAIN-SUFFIX,okemby.org
+DOMAIN-SUFFIX,cmecloud.cn
 
 
 
@@ -17,7 +18,7 @@ DOMAIN-SUFFIX,okemby.org
 DOMAIN-KEYWORD,mirror
 DOMAIN-KEYWORD,ghp
 DOMAIN-KEYWORD,m-team
-DOMAIN-KEYWORD,okemby.org
+DOMAIN-KEYWORD,okemby
 DOMAIN-KEYWORD,yusen
 
 #DOMAIN-KEYWORD,afushu
